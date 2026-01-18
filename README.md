@@ -130,23 +130,17 @@ Key deployment features:
 
 ---
 
-- 🎓 Why This Project Matters
+## 🎓 Why This Project Matters
 
 This project demonstrates:
 
-1.Asynchronous backend development
-
-2.Real-world payment flow handling
-
-3.Secure configuration management
-
-4.Cloud deployment and uptime management
-
-5.Database-driven business logic
-
-6.Admin moderation workflows
-
-7.It was developed as a real production system for a live Minecraft server community.
+1. Asynchronous backend development
+2. Real-world payment flow handling
+3. Secure configuration management
+4. Cloud deployment and uptime management
+5. Database-driven business logic
+6. Admin moderation workflows
+7. Developed as a real production system for a live Minecraft server community
 
 ---
 
