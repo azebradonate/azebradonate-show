@@ -145,4 +145,4 @@ This project demonstrates:
 ---
 
 ## 🤖 Live Bot
-Telegram: https://t.me/azebradonate_bot
+[Telegram Bot](https://t.me/azebradonate_bot)
