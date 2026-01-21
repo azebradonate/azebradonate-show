@@ -5,25 +5,25 @@ The bot supports manual card payments with admin moderation and automated Telegr
 
 ---
 
-## 🚀 Features
+## Features
 
-- 💰 **Donation system**
+- **Donation system**
   - Manual card payments with receipt verification
   - Telegram Stars payments (in-app purchases)
 
-- 🧮 **Automatic bonus calculation**
+- **Automatic bonus calculation**
   - Referral-based cumulative bonus system
   - Dynamic percentage calculation with upper limit
 
-- 👥 **Referral system**
+- **Referral system**
   - Personal invite links
   - Cumulative donations tracking
 
-- 📜 **Rules & compliance system**
+- **Rules & compliance system**
   - Mandatory rules acceptance before donating
   - Admin ability to reset or revoke access
 
-- 🔐 **Admin moderation**
+- **Admin moderation**
   - Accept / reject donations
   - Reject with custom reason
   - User payment locking / unlocking
@@ -31,19 +31,19 @@ The bot supports manual card payments with admin moderation and automated Telegr
 - 🧾 **Minecraft integration**
   - Automatic generation of ready-to-use console commands
 
-- 🌍 **Multilingual support**
+- **Multilingual support**
   - English
   - Russian
   - Azerbaijani
 
-- ☁️ **Cloud deployment**
+- **Cloud deployment**
   - Hosted on Render (free tier)
   - 24/7 uptime using keep-alive mechanism
   - Health check endpoint
 
 ---
 
-## 🧠 System Architecture
+## System Architecture
 
 User
 
@@ -71,7 +71,7 @@ Admin Notification + Minecraft Console Command
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **Language:** Python 3
 - **Telegram Framework:** python-telegram-bot (async)
@@ -84,7 +84,7 @@ Admin Notification + Minecraft Console Command
 
 ---
 
-## 🗄 Database Design
+## Database Design
 
 The bot uses a persistent PostgreSQL database to store:
 
@@ -101,7 +101,7 @@ This ensures full data consistency and reliability across restarts.
 
 ---
 
-## 🔒 Security & Configuration
+## Security & Configuration
 
 - All sensitive data is stored using **environment variables**
 - No secrets are committed to the repository
@@ -118,7 +118,7 @@ RENDER_URL
 
 ---
 
-## ⚙️ Deployment
+## Deployment
 
 The bot is deployed on **Render** using GitHub integration.
 
@@ -130,7 +130,7 @@ Key deployment features:
 
 ---
 
-## 🎓 Why This Project Matters
+## Why This Project Matters
 
 This project demonstrates:
 
@@ -144,5 +144,5 @@ This project demonstrates:
 
 ---
 
-## 🤖 Live Bot
+## Live Bot
 [Telegram Bot](https://t.me/azebradonate_bot)
